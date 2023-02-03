@@ -1,5 +1,5 @@
 import uvicorn
-from fastapi import FastAPI, status
+from fastapi import FastAPI, status, UploadFile, File
 from starlette.responses import RedirectResponse, Response
 
 from config import HOST, PORT
@@ -59,6 +59,13 @@ async def get_factory_pool(pool: str, method: str = 'info'):
         case 'reload':
             proxy_pool.reload()
             return RedirectResponse(f'/proxies/{pool}')
+
+
+@app.post('/proxies/{pool}')
+async def post_factory_pool(pool, file: UploadFile = File(...)):
+    if pool not in factories.keys():
+        print(file)
+        return RedirectResponse('/proxies', status_code=status.HTTP_302_FOUND)
 
 
 if __name__ == '__main__':

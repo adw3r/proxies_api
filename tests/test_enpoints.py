@@ -16,21 +16,19 @@ class TestEndpoints(TestCase):
         resp = requests.post(url, files=values)
         print(resp.text)
 
-    def test_patch_method(self):
+    def test_patch_proxies(self):
         url = 'http://localhost:8282/proxies'
         values = {
-            'test': 'test.txt',
-            'test2': 'test2.txt',
+            'parsed': 'test_parsed.txt',
         }
         resp_value = requests.patch(url, json=values)
         print(resp_value.text)
 
-    def test_post_method(self):
+    def test_post_proxies(self):
         url = 'http://localhost:8282/proxies'
         post_values = {
             "parsed": "parsed.txt",
             "west": "west.txt",
-            "checked": "non_checked_west.txt",
         }
         value = requests.post(url, json=post_values)
         print(value.text)
