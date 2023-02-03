@@ -14,6 +14,16 @@ async def get_root():
     return RedirectResponse('/proxies')
 
 
+@app.get('/proxies')
+async def get_factories(method: str = 'info'):
+    match method:
+        case 'info':
+            return {key: item.info() for key, item in factories.items()}
+        case 'reload':
+            factories.reload_pools()
+            return RedirectResponse('/proxies')
+
+
 @app.patch('/proxies')
 async def put_factories(model: dict):
     factories_file: dict = get_factories_file()
@@ -28,16 +38,6 @@ async def post_factories(model: dict):
     dump_factories_file(model)
     factories.reload_pools()
     return RedirectResponse(url='/proxies', status_code=status.HTTP_302_FOUND)
-
-
-@app.get('/proxies')
-async def get_factories(method: str = 'info'):
-    match method:
-        case 'info':
-            return {key: item.info() for key, item in factories.items()}
-        case 'reload':
-            factories.reload_pools()
-            return RedirectResponse('/proxies')
 
 
 @app.get('/proxies/{pool}')
