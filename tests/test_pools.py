@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from module.pools import get_factories_file, Factories, dump_factories_file
+from pools import get_factories_file, Factories, dump_factories_file
 
 
 class TestPools(TestCase):

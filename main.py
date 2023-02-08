@@ -3,7 +3,7 @@ from fastapi import FastAPI, status, UploadFile, File
 from starlette.responses import RedirectResponse, Response
 
 from config import HOST, PORT
-from module.pools import FilePool, dump_factories_file, get_factories_file, Factories
+from pools import FilePool, dump_factories_file, get_factories_file, Factories
 
 app = FastAPI()
 factories = Factories()
