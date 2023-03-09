@@ -1,1 +1,4 @@
-{"parsed": "C:\\Users\\Administrator\\Desktop\\proxy_parser\\proxies\\parsed.txt", "west": "west.txt", "west_checked": "west_checked.txt"}
+{
+  "parsed": "C:\\Users\\Administrator\\Desktop\\proxy_parser\\proxies\\parsed.txt",
+  "west": "west.txt",
+}
