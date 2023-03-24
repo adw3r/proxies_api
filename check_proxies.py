@@ -25,19 +25,23 @@ async def check_proxy(proxy: str) -> dict | None:
         return None
 
 
-async def main():
+async def check_pool(pool):
+    logger.info(pool)
+    proxies = requests.get(f'http://localhost:8182/proxies/{pool}',
+                           params={'method': 'pool'}).text.strip().splitlines()
+    cors = [asyncio.create_task(check_proxy(proxy)) for proxy in proxies]
+    for res in asyncio.as_completed(cors):
+        await_res = await res
+        if await_res:
+            logger.info(await_res)
+
+
+async def check_pools():
     pools = requests.get('http://localhost:8182/proxies').json().keys()
     logger.info(pools)
     for pool in pools:
-        logger.info(pool)
-        proxies = requests.get(f'http://localhost:8182/proxies/{pool}',
-                               params={'method': 'pool'}).text.strip().splitlines()
-        cors = [asyncio.create_task(check_proxy(proxy)) for proxy in proxies]
-        for res in asyncio.as_completed(cors):
-            await_res = await res
-            if await_res:
-                logger.info(await_res)
+        await check_pool(pool)
 
 
 if __name__ == '__main__':
-    asyncio.run(main())
+    asyncio.run(check_pools())
