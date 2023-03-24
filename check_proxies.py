@@ -1,8 +1,8 @@
 import asyncio
 
 import aiohttp
-import requests
 import loguru
+import requests
 
 URL = 'http://ip-api.com/json/?fields=8217'
 
@@ -26,9 +26,12 @@ async def check_proxy(proxy: str) -> dict | None:
 
 
 async def main():
-    urls = ['http://localhost:8182/proxies/parsed?method=pool','http://localhost:8182/proxies/west?method=pool']
-    for url in urls:
-        proxies = requests.get(url).text.strip().splitlines()
+    pools = requests.get('http://localhost:8182/proxies').json().keys()
+    logger.info(pools)
+    for pool in pools:
+        logger.info(pool)
+        proxies = requests.get(f'http://localhost:8182/proxies/{pool}',
+                               params={'method': 'pool'}).text.strip().splitlines()
         cors = [asyncio.create_task(check_proxy(proxy)) for proxy in proxies]
         for res in asyncio.as_completed(cors):
             await_res = await res
