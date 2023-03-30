@@ -1,11 +1,12 @@
 import uvicorn
-from fastapi import FastAPI, status, UploadFile, File
+from fastapi import FastAPI, status, UploadFile, File, APIRouter
 from starlette.responses import RedirectResponse, Response
 
 from config import HOST, PORT, DEBUG
 from pools import FilePool, dump_factories_file, get_factories_file, Factories
 
 app = FastAPI()
+router = APIRouter()
 factories = Factories()
 
 

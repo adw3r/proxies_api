@@ -15,6 +15,7 @@ async def check_proxy(proxy: str) -> dict | None:
         async with SEMAPHORE:
             async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(30)) as session:
                 async with session.get(URL, proxy=proxy) as response:
+                    logger.info(await response.text())
                     json_response = await response.json()
                     ip = json_response.get('query')
                     if ip:
@@ -36,7 +37,7 @@ async def check_pool(pool):
             logger.info(await_res)
 
 
-async def check_pools():
+async def check_pools(*args, **kwargs):
     pools = requests.get(PROXIES).json().keys()
     logger.info(pools)
     for pool in pools:
