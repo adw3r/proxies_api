@@ -3,6 +3,7 @@ import asyncio
 import aiohttp
 import loguru
 import requests
+from aiohttp_socks import ProxyConnector
 
 PROXIES = 'http://localhost:8182/proxies'
 URL = 'http://ip-api.com/json/?fields=8217'
@@ -11,11 +12,14 @@ logger = loguru.logger
 
 
 async def check_proxy(proxy: str) -> dict | None:
+    connector = None
+    if 'socks' in proxy:
+        connector = ProxyConnector.from_url(proxy)
     try:
         async with SEMAPHORE:
-            async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(30)) as session:
+            async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(30), connector=connector) as session:
                 async with session.get(URL, proxy=proxy) as response:
-                    logger.info(await response.text())
+                    # logger.info(await response.text())
                     json_response = await response.json()
                     ip = json_response.get('query')
                     if ip:
@@ -45,4 +49,4 @@ async def check_pools(*args, **kwargs):
 
 
 if __name__ == '__main__':
-    asyncio.run(check_pools())
+    asyncio.run(check_pool('gold'))

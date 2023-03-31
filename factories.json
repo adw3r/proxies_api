@@ -1,4 +1,5 @@
 {
   "parsed": "C:\\Users\\Administrator\\Desktop\\proxy_parser\\proxies\\parsed.txt",
-  "west": "west.txt"
+  "west": "west.txt",
+  "gold": "gold.txt"
 }
