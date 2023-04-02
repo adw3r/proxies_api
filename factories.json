@@ -1,3 +1,4 @@
 {
-  "parsed": "/home/punk/Desktop/proxy-scraper/proxies/parsed.txt"
+  "parsed": "gold.txt",
+  "gold": "gold.txt"
 }
