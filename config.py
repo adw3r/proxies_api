@@ -16,11 +16,11 @@ if not PROXIES_FOLDER.exists():
 
 DEBUG = os.environ.get('DEBUG')
 config_general['DEBUG'] = DEBUG
-DEBUG = config_general.getboolean('DEBUG', False)
+DEBUG = config_general.getboolean('DEBUG', True)
 
 if not DEBUG:
     HOST = config_general.get('HOST', '0.0.0.0')
     PORT = config_general.getint('PORT', 8182)
 else:
-    HOST = config_general.get('TEST_HOST', 'localhost')
+    HOST = config_general.get('TEST_HOST', '0.0.0.0')
     PORT = config_general.getint('TEST_PORT', 8282)
