@@ -14,8 +14,6 @@ PROXIES_FOLDER = pathlib.Path(PACKAGE_FOLDER, 'proxies')
 if not PROXIES_FOLDER.exists():
     os.mkdir(PROXIES_FOLDER)
 
-DEBUG = os.environ.get('DEBUG')
-config_general['DEBUG'] = DEBUG
 DEBUG = config_general.getboolean('DEBUG', True)
 
 if not DEBUG:

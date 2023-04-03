@@ -6,6 +6,7 @@ services:
     volumes:
       - .:/app
     ports:
+      - "8182:8182"
       - "8282:8282"
-    env_file:
-      - ".env"
+#    env_file:
+#      - ".env"
