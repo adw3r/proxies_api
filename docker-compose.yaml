@@ -1,7 +1,8 @@
 version: "3.8"
 
 services:
-  proxy-api:
+  api:
+    image: alexeynaidiuk/proxies-api:latest
     build: .
     volumes:
       - .:/app
