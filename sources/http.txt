@@ -41,7 +41,6 @@ https://github.com/jetkai/proxy-list/blob/ff9769efe5dda7ffff7eaf26c5e5ed7d5a0c61
 https://github.com/jetkai/proxy-list/blob/780e3f8b76bda6110d91004dc96d8413bb9616b4/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/8fd4ad25ea9d0a9c0659d21a651c99365a7d67cf/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/230ef44b4ba58110e37336f1b52f9a6856e881f6/online-proxies/txt/proxies-http.txt
-https://github.com/bonani-mlondo/Spotify-Streaming-Bot/blob/29527daebe5afd2e69405eb04047f2ff2acfbca6/streaming_http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/4dd2cc69269bba38f98e4a821bbc3a430fb1f4a5/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/4d72639dcf24d56d069a5c0212102196c90a32e7/online-proxies/txt/proxies-http.txt
 https://github.com/ggbro265235/test2/blob/6a3b1e69ad01f4d74fb5775fb92564fda5404511/http_proxies_8%20(1).txt
@@ -121,7 +120,6 @@ https://github.com/phamthevinhuserr/Test1/blob/b2c37fd82629f9ed80ad6aedcd4dbac25
 https://github.com/jetkai/proxy-list/blob/9db63d494119d5cebd5bbdd7d9afdde280f25841/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/eb13efc5d451e7c49538e95da45d40740d6deb64/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/061a52761e1a3e93b872d8393b312ea190b6c286/online-proxies/txt/proxies-http.txt
-https://github.com/RaghavPathak/op/blob/38d5a47880f6a69396751d4469cecf5cca3cd17d/required/http-proxies.txt
 https://github.com/tcp-wizard/cobsb/blob/98ef6d8756340bfdc7e16ac7242bc380258e530e/Data/http-proxies.txt
 https://github.com/jetkai/proxy-list/blob/8193640cde850993a8e1ec918a80107d3574af9a/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/6f4abf92c9b40b22417c6a1c5932513b4370e57e/online-proxies/txt/proxies-http.txt
@@ -170,7 +168,6 @@ https://github.com/selmankaya01/bitirmeprojesi1/blob/66c503ec961d3ec8c9644df739e
 https://github.com/jetkai/proxy-list/blob/55188bd16e4690668c48110a0eb4a050508de2eb/online-proxies/txt/proxies-http.txt
 https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/http.txt
 https://github.com/jetkai/proxy-list/blob/16ef0705a0128710acb9e274c83f22e2518816aa/online-proxies/txt/proxies-http.txt
-https://github.com/SSnxxa1/Nitrox11/blob/1bdd4c800e187f3ab029cc9ce6b4098fba63f388/required/http-proxies.txt
 https://github.com/SansLineV2/raav/blob/0ccd37c1d09106a2bb89e468973585da3fd91bba/http_proxies.txt
 https://github.com/ArminBodboy/-Hcaptha-Very-fast/blob/ad3d0d870ff1adc41997fd60e134046f98026a7d/proxies_creator-main/unchecked_proxies/http_unchecked_proxies.txt
 https://github.com/jetkai/proxy-list/blob/aed294a11c651d728a87df4afb6ff1a8fb15e43d/archive/txt/proxies-http.txt
@@ -242,7 +239,6 @@ https://github.com/jetkai/proxy-list/blob/bec98dc3859a4fdb04d373aab70a8b19a391c2
 https://github.com/RiccoMarcelino/flex-bot/blob/7f9d87556a95f228de9add3ff65771c526c499d9/http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/60eb20cfe2536fdec6ba7a2cf958793642e724b2/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/213ef1a6f5f08d26ecc7cc15235bd8c9e6bc98b1/online-proxies/txt/proxies-http.txt
-https://github.com/neu-ma-tic/test2895/blob/e514a21b1fbb56eac0dd0388f77ece41a2ab9971/c054be38-9466-11ed-9bc1-f3e6831b32e2/File/http-proxies.txt
 https://github.com/jetkai/proxy-list/blob/8cf8bbe8be8a9cabe2de7f418a24a8c60a0fd7bb/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/c9ae616677ec6035456268e88742bf386a03936d/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/295e9ef8d75dd15a2b9a5d7326a133058dcb9c53/archive/txt/proxies-http.txt
@@ -294,6 +290,7 @@ https://github.com/sam0ed/KPI/blob/1e15710e4d7566c71a5445a2e9fde13097c400cf/Data
 https://github.com/jetkai/proxy-list/blob/84bb3bd55549230b2757a5871f85117ba52126e9/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/6f4abf92c9b40b22417c6a1c5932513b4370e57e/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/d45c8a14a7f76ea9ef93a58a7b6ccb8c3eee9b57/online-proxies/txt/proxies-http.txt
+https://github.com/yfchina143/twitchViewerBot/blob/114a0d2cc5f688914ebdee05fe4a8ec8722e28bd/proxies_http_ip.txt
 https://github.com/andzuocdie/hey-bro/blob/f32cdd7350108874eea9820ce7f533f5242ed427/http_proxies.txt
 https://github.com/YashrajTheDev/test/blob/2367a69cfa60f250bb3ba3a67070966116fda7ad/http_proxies.txt
 https://github.com/RAAl-hikmah/raav/blob/0ccd37c1d09106a2bb89e468973585da3fd91bba/http_proxies.txt
@@ -320,7 +317,6 @@ https://github.com/jetkai/proxy-list/blob/8e4f4f208a742c4a449d9730d53733049db8d8
 https://github.com/jetkai/proxy-list/blob/6b699382ffc6c212a3befabb4232c53501f6ecb4/online-proxies/txt/proxies-http.txt
 https://github.com/WANYEN2547/proxy/blob/01113acf020afff3316b94f677a0946745bc113a/Working_Proxies_HttpConnect.txt
 https://github.com/NOTMADDY/proxies-list/blob/d227482587a122546615e2092d928da7ddd77b68/http_proxies_11.txt
-https://github.com/luizbratz/testezin/blob/5a10c61dea5b93fe5be1785761afd409bef1c292/YANG-main/required/http-proxies.txt
 https://github.com/jetkai/proxy-list/blob/15e97763c8f83c5c54ab4ed0765e295c17808698/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/3260913f7ab93ddcd0c4ac092565c7eefc1b85e4/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/f2365c51055fdf06cde731580fb2c7f4c472a962/online-proxies/txt/proxies-http.txt
@@ -328,7 +324,6 @@ https://github.com/jetkai/proxy-list/blob/904a519d4ce1058ab3da06a78280103d4684bc
 https://github.com/jetkai/proxy-list/blob/0470f33e3963143b3d91429f7eb6c467eff5bfd4/online-proxies/txt/proxies-http.txt
 https://github.com/eaguilarf21/elqueyodesee/blob/496e16274289d85dfc3555700d65406d537b35dc/http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/07b2b56f26baf875a814affccdabb412bbcc81c8/archive/txt/proxies-http.txt
-https://github.com/Johndoe8764/SpotifyStreamingBot/blob/417569abc6c4f4cf6b6116ca63b2a9efacd0a6ae/streaming_http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/b20cb8868e096f5e025b184257b553a8caf64160/online-proxies/txt/proxies-http.txt
 https://github.com/LionTeamDDoS2022/botdis/blob/dff303fefcb07bc7f2fa0efabd9131462c0b1f9b/http_proxies.txt
 http://rootjazz.com/proxies/proxies.txt
@@ -388,7 +383,6 @@ https://github.com/GoranTopic/puppeteer_playground/blob/f1e061939e21025e433eaa3c
 https://github.com/lfleper/BahnBashing/blob/22f97cfe2fa52284103502b64ca3ec55dd7715f9/http_proxies.txt
 https://github.com/Daoxuanthang/Omarv3/blob/ae9490fbb10e382846c4e3bc9956523021369f88/http_proxies.txt
 https://github.com/DevTroxep/free-agar-bots-proxies/blob/06ef2fc2a89a22689c6488c2815ce468f5d4c662/http_proxies.txt
-https://github.com/chllorolucifier/discord-nitro/blob/f36ee6590c20499dc4af334bd8140ac3643240f9/required/http-proxies.txt
 https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies_anonymous/http.txt
 https://github.com/jetkai/proxy-list/blob/2990ec84ccda0b47d967b1fe67b7b262572868b2/archive/txt/proxies-http.txt
 https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/http.txt
@@ -400,11 +394,10 @@ https://github.com/WhenLifeHandsYouLemons/Other-Python-Files/blob/04d3c4a21c27b2
 https://github.com/eliakimatamba/strawpoll_proxy_auto_vote/blob/11b9fbb74b10b9d1d546ecfccb75b9552559ea63/http_proxies.txt
 https://github.com/subhajit2001/Making-of-AmazonProductScrapper-Package/blob/17107c89da5b37b9294ee938bb9012041dfc15c2/http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/0572cc8aca8673e510247a422a9c45d113f9af47/online-proxies/txt/proxies-http.txt
-https://github.com/jetkai/proxy-list/blob/a6d03e41283eec11748b5442f24d9e2aa79660c3/online-proxies/txt/proxies-http.txt
+https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt
 https://github.com/jetkai/proxy-list/blob/6592a8807f892b68cf0034466d82d210decb66b3/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/49d12447110eb1e7535c0a5b40a30ff95d00a7e0/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/3bf07dfec016c515b5bf1d3bb1b72680890a608b/online-proxies/txt/proxies-http.txt
-https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt
 https://github.com/jetkai/proxy-list/blob/fe82d7f9be9dd2b0ddb6302f39afea82eaca64ed/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/a290030f3377fc57894c3383745b24fc7ab85bc5/archive/txt/proxies-http.txt
 https://github.com/SirWorldBanYT/Bot-Crash/blob/fd079d6c362b364ef384001c40588354c6d7efc4/http_proxies.txt
@@ -449,6 +442,7 @@ https://github.com/jetkai/proxy-list/blob/083e1dd776d81ed21b9924215934bdac4f41da
 https://github.com/QuyenCodePro/bot/blob/9656da81e2ed3067d3fdb3cc5c99ae7aba5ceb23/http_proxies.txt
 https://github.com/Dickgirl/Xanarchy-Self-Bot/blob/0d83e529a53d7655e522e844145f0df287bef1ea/Data/http-proxies.txt
 https://github.com/TylerAmesIsGay/proxy-list/blob/e31a4893450710be570559e6325e4d9ebdec0e3d/http_proxies%20(3).txt
+https://github.com/jetkai/proxy-list/blob/c806b1062b3973b3b6df0f76899a8d7acc64f5f6/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/791e724063b208bc250d45593deeda687350e23e/online-proxies/txt/proxies-http.txt
 https://github.com/manhtool/manhtool/blob/a7df2ce5e50cfb4ffb49d9f8e155a738ad553e48/http_proxies.txt
 https://github.com/BlackShin286/Discord/blob/0a12064ef3b772e4c3840dfe64061f77dfd15c1d/http_proxies.txt
@@ -473,7 +467,6 @@ https://github.com/Espacio-root/Rotating-Proxy/blob/dbc34c2899d5154c1a646d8da2c2
 https://github.com/vextia1/Selfbot-Leak/blob/9e0a2010b06bd7cb589ef0c5aad7089fdf70cb60/Alucard/Data/http-proxies.txt
 https://github.com/Kornnatudd/q/blob/80fcfd51e19426c0139059658080bb5d471c5aea/http_proxies.txt
 https://github.com/devsdenepal/xupa-rustam/blob/f2c6796fbdda2689915cda39a81cb57144fc0652/proxy-list/http_proxies.txt
-https://github.com/PedroSzz/Generator/blob/89f71186f3798766358f6e35570cfc7d545f7abc/required/http-proxies.txt
 https://raw.githubusercontent.com/shiftytr/proxy-list/master/proxy.txt
 https://github.com/jetkai/proxy-list/blob/8736863787ee5755f3cb967c4118f7d7d36151bf/online-proxies/txt/proxies-http.txt
 https://github.com/StickySitch/Basic_Proxy_Scraper/blob/cdd6e37dcf8e55bd75d2737044b5b316670abdb3/Proxy%20Saves/HttpProxies.txt
@@ -504,7 +497,6 @@ https://github.com/NINOXA/ddos/blob/d37f0a9c4825ee02fdf00fb5a0e9709cd2271d81/htt
 https://github.com/jetkai/proxy-list/blob/f47bcd738f9f83c638e7bb73574ea647aac5a4a3/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/41fb8ff4641e6965de7184017f9d017ce7b1ded5/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/30e8cf1f56e61f4fcdcf8504072606b54ccce3c5/archive/txt/proxies-http.txt
-https://github.com/FlakingShivam/Nitro-free/blob/f69638f47f36fd61fbab675f92d27e8f13b5e356/required/http-proxies.txt
 https://github.com/sam0ed/KPI/blob/e26e22a0a156c57b6294c56972498c2f8e7cf3e1/Data%20Analysis/4semester/Lab1/script/scrape/proxy_list_files/http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/41188e90e4938d8464d0d88c5f0e99de1e4fe511/online-proxies/txt/proxies-http.txt
 https://github.com/Vanan123564/xu/blob/eb7570571cd2505b488a2f907748d9aadc9afdd5/http_proxies.txt
@@ -517,25 +509,19 @@ https://github.com/paskardthegoat/scrapix/blob/c41be171b759aa66fb7a26e4c354cf5ae
 https://github.com/TinSpy/Bots/blob/d8cae821c0b4cfdc88cb07d9a35c3506070d21f8/ProxiesHttp.txt
 https://raw.githubusercontent.com/zevtyardt/proxy-list/main/http.txt
 https://github.com/harendra21/automation/blob/f6a7b79ada40b0943210fe77bd61073298c87b76/Automation%20Latest/files/http_proxies.txt
-https://github.com/jetkai/proxy-list/blob/cf9f33591579e506e413b40e58d3f8f1ac311581/online-proxies/txt/proxies-http.txt
-https://github.com/jetkai/proxy-list/blob/671ccf6ea1408ad550892751fac274753c0ade69/archive/txt/proxies-http.txt
 https://github.com/andzuocdie/bot-dis-new-update/blob/03713a3b95ab78cbb2a20e78742d29aa6856bb08/http_proxies.txt
+https://github.com/jetkai/proxy-list/blob/671ccf6ea1408ad550892751fac274753c0ade69/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/9747ef10594e99d97c7dbe90501d50822dd72c67/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/5c6b141e2c140dc0c47393ef8fc6acd17245f556/online-proxies/txt/proxies-http.txt
-https://github.com/jetkai/proxy-list/blob/4e71c85eb43ff613560bbc1847365eb2a394e3a0/online-proxies/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/1eca6129ce536b969b78f4b27347cd2483e17ae1/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/6dafd91593808c19e11fc3365ad2f8c8d4401dd6/archive/txt/proxies-http.txt
-https://github.com/neu-ma-tic/test2895/blob/e514a21b1fbb56eac0dd0388f77ece41a2ab9971/c052d5d2-9466-11ed-adc6-eff1958ce59f/File/http-proxies.txt
-https://github.com/Aryan5567/lvnn2/blob/97adcaf67f43cc912a2bf0bb0930f8e477bed151/http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/2c904b17950fbb59e992bfb947379fd8975f4c68/archive/txt/proxies-http.txt
 https://github.com/jetkai/proxy-list/blob/6fd897c0adf35c3b742b2f210bd07fdcc35f0771/online-proxies/txt/proxies-http.txt
 https://proxy-spider.com/api/proxies.example.txt
-https://github.com/RumixPumix/ProxyAuto/blob/3b1e19edb2999c3cd3a1403b2781c03ed20494e5/ProxyAuto/proxy/http_working_proxies.txt
-https://github.com/jetkai/proxy-list/blob/39663578fc0fd9cb289e6a3933acc1e717359d8c/archive/txt/proxies-http.txt
 https://github.com/ph-fox/dos/blob/c29b05ce98b7a92fd7e104daa0721c9f65032c43/http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/0b0e5a35d7963d3a79f19691864aca7e92324279/archive/txt/proxies-http.txt
 https://github.com/Leralix/ProjetR/blob/64a4288f0988bebfaa69953fbccb455ead1d0ec1/Scraper/CentraleAutoScraping/CentraleAutoScraping/spiders/HTTP-proxies.txt
 https://github.com/andzuocdie/discord-1/blob/244ab1d9b0c722cb4a22e6e675fdbe77ff90aa17/http_proxies.txt
 https://github.com/jetkai/proxy-list/blob/f6dd0553181bf83378a371d4f474cb6220520fc4/online-proxies/txt/proxies-http.txt
 https://github.com/ahmadsholik/bootselenium/blob/5bee7b035b53b50b0390caf28d59ee1e28c51944/proxies_http.txt
-https://github.com/jetkai/proxy-list/blob/c806b1062b3973b3b6df0f76899a8d7acc64f5f6/archive/txt/proxies-http.txt
+https://github.com/jetkai/proxy-list/blob/a6d03e41283eec11748b5442f24d9e2aa79660c3/online-proxies/txt/proxies-http.txt

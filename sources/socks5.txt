@@ -2,7 +2,6 @@ https://github.com/jetkai/proxy-list/blob/07ce4361f50b77c0d341ab9da17c312527e8bd
 https://github.com/jetkai/proxy-list/blob/3bf07dfec016c515b5bf1d3bb1b72680890a608b/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/15e97763c8f83c5c54ab4ed0765e295c17808698/archive/txt/proxies-socks5.txt
 https://raw.githubusercontent.com/manuGMG/proxy-365/main/SOCKS5.txt
-https://github.com/coder5010/Discord-Proxy-Bot/blob/05d922f35e6cb68ce6e04e0045bbc143dbb966fc/Data/socks5-proxies.txt
 https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
 https://api.openproxylist.xyz/socks5.txt
 https://github.com/jetkai/proxy-list/blob/9e531194ebfd469f72dedc25c5ba564f244925a2/online-proxies/txt/proxies-socks5.txt
@@ -11,7 +10,6 @@ https://github.com/jetkai/proxy-list/blob/011cf14dcb40ff394dba939fad23f9175bb87c
 https://github.com/jetkai/proxy-list/blob/2b920e2c67fd4f0fbd625cac5ba8728656ecf155/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/ef7b1cc953109a689f092dea763bd357931723d8/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/0c701c3e0d2a8deec38fbdee19e3201e7c8111f8/archive/txt/proxies-socks5.txt
-https://github.com/Koshsky/Turk.estate-parser/blob/ce2a88841a3b2e5378f45bb26f67ff932cedc81f/proxies_IPv4_socks5.txt
 https://github.com/jetkai/proxy-list/blob/f43ec8f22d942c44b2e7de548cc8cec34ab01537/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/6dea971d7039b89b723ebabd0768b89bc12372fd/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/3260913f7ab93ddcd0c4ac092565c7eefc1b85e4/online-proxies/txt/proxies-socks5.txt
@@ -51,7 +49,6 @@ https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt
 https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt
 https://github.com/jetkai/proxy-list/blob/aba06efe65a3e0d15ae4350bae9391974fff7d64/archive/txt/proxies-socks5.txt
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all&simplified=true
-https://github.com/zetreex/TikTok-Unauthorized-API/blob/b24cc39932d048ab29ae95cf20f4037b65fbfad1/app/proxy/socks5_proxies.txt
 https://github.com/jetkai/proxy-list/blob/4a48660f36aa4de478510b143420601f9bcfb0a0/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/7f9a4a9a7929d389ee524f4a8f4bdc0cac9a45ef/archive/txt/proxies-socks5.txt
 https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks5.txt
@@ -66,6 +63,7 @@ https://github.com/jetkai/proxy-list/blob/8736863787ee5755f3cb967c4118f7d7d36151
 https://github.com/jetkai/proxy-list/blob/0d41f9bc4b85cfe6f6742c1cf431fd0bd68a678c/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/cf9f33591579e506e413b40e58d3f8f1ac311581/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/1eca6129ce536b969b78f4b27347cd2483e17ae1/archive/txt/proxies-socks5.txt
+https://github.com/jetkai/proxy-list/blob/6209ef55f757fd7d6e35b4e6c218d9b9aefd22ee/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/9db63d494119d5cebd5bbdd7d9afdde280f25841/archive/txt/proxies-socks5.txt
 https://github.com/O-ffender/Modified-Alucard-Selfbot/blob/9cfd2ff6d18d2fb76e7541c17fc103dfea5ce452/Data/socks5-proxies.txt
 https://github.com/jetkai/proxy-list/blob/7af897f87241d3cf319f83d5b90a9a68f144a7fb/archive/txt/proxies-socks5.txt
@@ -101,7 +99,6 @@ https://github.com/jetkai/proxy-list/blob/3210ee9453905ecbca0117995dc6bf6c01cdba
 https://github.com/jetkai/proxy-list/blob/588e1b6927dd3b46b91286c58332c06c9481907f/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/45a6c9c69c4ba9eade89a85d4944c2a30e74e4ad/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/a58ee17948a1b848a51d95c7215ba00345fa0087/online-proxies/txt/proxies-socks5.txt
-https://github.com/9xc/MultiBot/blob/8b23b5e24e0e3d76155632b3e5f16fbdc9b24f2e/Data/socks5-proxies.txt
 https://github.com/Katpatahudosto/piro-selfbot/blob/12537cb42ff617ce7c1d967d640453591fcabc80/Scraped%20Proxies/socks5-proxies.txt
 https://www.proxy-list.download/api/v1/get?type=socks5
 https://github.com/jetkai/proxy-list/blob/2990ec84ccda0b47d967b1fe67b7b262572868b2/online-proxies/txt/proxies-socks5.txt
@@ -121,7 +118,6 @@ https://github.com/jetkai/proxy-list/blob/4dd2cc69269bba38f98e4a821bbc3a430fb1f4
 https://github.com/jetkai/proxy-list/blob/30e8cf1f56e61f4fcdcf8504072606b54ccce3c5/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/e5f3823dec59b4268a7506cd6630bbb689afa056/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/230ef44b4ba58110e37336f1b52f9a6856e881f6/archive/txt/proxies-socks5.txt
-https://github.com/MiniLux0/DiscordBot-ProxyScrape/blob/d6d6f70b15f12c3243c476fa265abbe46aa72b6e/File/socks5-proxies.txt
 https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks5.txt
 https://github.com/rustxj/testbox/blob/e622422aca3b52503194ebe407f0dbc700133d8a/proxies_socks5.txt
 https://github.com/jetkai/proxy-list/blob/ddcf325f06082daa79331ee435ecb71e21454ed3/archive/txt/proxies-socks5.txt
@@ -143,7 +139,6 @@ https://github.com/hanonymus90/D4rkM4773r-7927/blob/754d6ccd16dae351e807e57e3312
 https://github.com/jetkai/proxy-list/blob/1eca6129ce536b969b78f4b27347cd2483e17ae1/online-proxies/txt/proxies-socks5.txt
 https://www.proxyscan.io/download?type=socks5
 https://github.com/ixiMarcozzk2/ddosmine/blob/1d60a6bbfaaaf884a62b481bd438e422425599ca/socks5_proxies.txt
-https://github.com/CoolCoder1337/dpb/blob/487293390d8680356a61f991bd14706e97bc2a4c/Data/socks5-proxies.txt
 https://github.com/jetkai/proxy-list/blob/6c38a63a8b80260f6a103770d04d2cc32d076f82/archive/txt/proxies-socks5.txt
 https://github.com/4vk/8ys-s/blob/0dd98c4e6d43979a83a49d1b0c5976d3a69496c7/Scraped%20Proxies/socks5-proxies.txt
 https://github.com/jetkai/proxy-list/blob/7eb1907a375be29a7345f01029cbe45f64aba1c7/online-proxies/txt/proxies-socks5.txt
@@ -163,9 +158,7 @@ https://github.com/vextia1/Selfbot-Leak/blob/9e0a2010b06bd7cb589ef0c5aad7089fdf7
 https://github.com/jetkai/proxy-list/blob/79c434ed96f0d79d6cd5fecbb7b50d298c0bd7e6/online-proxies/txt/proxies-socks5.txt
 https://github.com/proxymasterid/dailyproxy/blob/bb4ca5b740a0d21097d81c4f2a5c7be8636b3925/563%20SOCKS5%20ELITE%20PROXIES.txt
 https://github.com/xxTurborocketxx/Crystal-Selfbot/blob/bf0574072965147bd3e51f8b1c1d890e96f87e58/Data/socks5-proxies.txt
-https://github.com/w3security/I-Racker/blob/be0dddca34e7da078be6489d8d152ad9365456a6/SystemBC_Malware_Turns_Infected_Computers_into_SOCKS5_Proxies/SystemBC_Malware_Turns_Infected_Computers_into_SOCKS5_Proxies_SpotterQueries.txt
 https://github.com/jetkai/proxy-list/blob/6dea971d7039b89b723ebabd0768b89bc12372fd/online-proxies/txt/proxies-socks5.txt
-https://github.com/Koshsky/AzbukaVkusa-parser/blob/aca10b96452d3197f61d6c481629963d08235134/proxies_IPv4_socks5.txt
 https://github.com/jetkai/proxy-list/blob/d9a886f5aa4fb7a8721f7ac9b7368fbbfb889dba/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/433efc4e877d5378316243647de834f810dbd55b/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/ae986366b93237c828c96762b0964091bc549dca/archive/txt/proxies-socks5.txt
@@ -207,7 +200,6 @@ https://github.com/jetkai/proxy-list/blob/e571047b4d511f6edda38c85080c574ae3e1a3
 https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/socks4.txt
 https://github.com/bossniko200/NettyBotter/blob/3188ab226a5274e0931afe69c22bb2c51e4cdba4/lists/socks5_proxies.txt
 https://github.com/jetkai/proxy-list/blob/a290030f3377fc57894c3383745b24fc7ab85bc5/online-proxies/txt/proxies-socks5.txt
-https://github.com/anouardbiali/send-emails-with-proxies/blob/c2778e19438fb30353b4a2560d79abc509c68536/data/socks5_proxies.txt
 https://github.com/jetkai/proxy-list/blob/9db3089454a3df7a8ff2b30e209182bc4645f4ee/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/12b98dd922c361201c8a095e35073d5b5b986fff/online-proxies/txt/proxies-socks5.txt
 https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS5.txt
@@ -228,7 +220,6 @@ https://github.com/jetkai/proxy-list/blob/15e97763c8f83c5c54ab4ed0765e295c178086
 https://github.com/jetkai/proxy-list/blob/ddcf325f06082daa79331ee435ecb71e21454ed3/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/07b2b56f26baf875a814affccdabb412bbcc81c8/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/aadc16f49ad9af92e6df1539b224d725ea11ffd5/archive/txt/proxies-socks5.txt
-https://github.com/RumixPumix/ProxyAuto/blob/3b1e19edb2999c3cd3a1403b2781c03ed20494e5/ProxyAuto/proxy/socks5_working_proxies.txt
 https://raw.githubusercontent.com/HyperBeats/proxy-list/main/socks5.txt
 https://github.com/jetkai/proxy-list/blob/fe82d7f9be9dd2b0ddb6302f39afea82eaca64ed/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/16ef0705a0128710acb9e274c83f22e2518816aa/online-proxies/txt/proxies-socks5.txt
@@ -274,7 +265,7 @@ http://www.socks24.org/feeds/posts/default
 https://github.com/jetkai/proxy-list/blob/857ebfd1e1a099224041b288024dc3911741f0d4/archive/txt/proxies-socks5.txt
 https://github.com/Leonardo-Zhou/Spiders/blob/45f6957bb27231afa6ba7da517f81e367f01e240/%E8%8E%B7%E5%BE%97socks%E4%BB%A3%E7%90%86/socks5_proxies.txt
 https://github.com/jetkai/proxy-list/blob/d6c9f8124c313687dedff1c369b0f99c2a8f6a65/online-proxies/txt/proxies-socks5.txt
-https://github.com/greggrus/proxybot/blob/7c4ee71ab50f74d591b260a3e86bda29f32ee2da/results/socks5_proxies.txt
+https://github.com/jetkai/proxy-list/blob/742d90d073c5debaed256914f2cfc6c4c70ef868/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/0470f33e3963143b3d91429f7eb6c467eff5bfd4/online-proxies/txt/proxies-socks5.txt
 https://github.com/jnjnafzejdmvk/how/blob/d72827e9e868037ce213418ce8c59ee62d280b1c/socks5-proxies.txt
 https://github.com/jetkai/proxy-list/blob/b27db0cd130b4a18f2e83d251f00fe087c3318f9/archive/txt/proxies-socks5.txt
@@ -295,7 +286,6 @@ https://github.com/jetkai/proxy-list/blob/4ab831b9a393b69cf115e55ff6ddb68163bc0c
 https://github.com/0lp/Execard-Selfbot/blob/f10d8aa0285c53cf0050d139337f0bfab5bdad16/Data/socks5-proxies.txt
 https://github.com/jetkai/proxy-list/blob/5d539e86c30fa19ebdccc5ddc237ce6e784e07a0/online-proxies/txt/proxies-socks5.txt
 https://github.com/Rosee-Z/Discord-Account-Dispenser/blob/bd221a2b6c326b6bec48fa23d558aa983fd64fad/data/proxies/socks5-proxies.txt
-https://github.com/x-name15/Rewards-Master-Bot/blob/c7f738c6339406d2e67b7387c43320b353a02af3/data/proxies/socks5-proxies.txt
 https://github.com/jetkai/proxy-list/blob/49ed7c5acd4c66092c600854783342eeb9771a5c/archive/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/cc18c84fed49f9a4f99d7da765dcb7c3a1ec99f7/online-proxies/txt/proxies-socks5.txt
 https://github.com/jetkai/proxy-list/blob/ebede9200311c3ba59824105ce6e4848416661ab/online-proxies/txt/proxies-socks5.txt
