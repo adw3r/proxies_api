@@ -41,7 +41,7 @@ async def check_pool(pool):
             logger.info(await_res)
 
 
-async def check_pools(*args, **kwargs):
+async def check_pools():
     pools = requests.get(PROXIES).json().keys()
     logger.info(pools)
     for pool in pools:
@@ -49,4 +49,4 @@ async def check_pools(*args, **kwargs):
 
 
 if __name__ == '__main__':
-    asyncio.run(check_pool('gold'))
+    asyncio.run(check_pool('parsed'))

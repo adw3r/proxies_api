@@ -1,6 +1,11 @@
 version: "3.8"
 
 services:
+  proxy-parser:
+    image: alexeynaidiuk/proxy-parser:latest
+    volumes:
+      - ./proxies:/app/proxies
+      - ./sources:/app/sources
   api:
     image: alexeynaidiuk/proxies-api:latest
     build: .
@@ -8,6 +13,9 @@ services:
       - .:/app
     ports:
       - "8182:8182"
-      - "8282:8282"
-#    env_file:
-#      - ".env"
+    networks:
+      - mynetwork
+networks:
+  mynetwork:
+    name: mynetwork
+    driver: bridge

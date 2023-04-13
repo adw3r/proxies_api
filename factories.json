@@ -1,5 +1,4 @@
 {
   "parsed": "parsed.txt",
-  "gold": "gold.txt",
-  "west": "west.txt"
+  "gold": "gold.txt"
 }
