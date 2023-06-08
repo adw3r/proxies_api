@@ -19,15 +19,16 @@ async def check_proxy(proxy: str) -> dict | None:
         async with SEMAPHORE:
             async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(30), connector=connector) as session:
                 async with session.get(URL, proxy=proxy) as response:
-                    # logger.info(await response.text())
+                    text = await response.text()
+                    logger.error(f'{text} {proxy}')
                     json_response = await response.json()
                     ip = json_response.get('query')
                     if ip:
                         json_response['proxy'] = proxy
                         return json_response
     except Exception as error:
-        logger.error(error)
-        return None
+        # logger.error(error)
+        pass
 
 
 async def check_pool(pool):
@@ -49,4 +50,4 @@ async def check_pools():
 
 
 if __name__ == '__main__':
-    asyncio.run(check_pool('parsed'))
+    asyncio.run(check_pool('gold'))
