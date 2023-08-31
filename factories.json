@@ -1,4 +1,9 @@
 {
   "parsed": "parsed.txt",
+  "west": "west.txt",
+  "checked": "non_checked_west.txt",
+  "test": "test.txt",
+  "test2": "test2.txt",
+  "test3": "test3.txt",
   "gold": "gold.txt"
 }
