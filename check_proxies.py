@@ -20,15 +20,14 @@ async def check_proxy(proxy: str) -> dict | None:
             async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(30), connector=connector) as session:
                 async with session.get(URL, proxy=proxy) as response:
                     text = await response.text()
-                    logger.error(f'{text} {proxy}')
                     json_response = await response.json()
                     ip = json_response.get('query')
                     if ip:
                         json_response['proxy'] = proxy
                         return json_response
     except Exception as error:
-        # logger.error(error)
-        pass
+        logger.error(error)
+        logger.error(f'{text} {proxy}')
 
 
 async def check_pool(pool):
