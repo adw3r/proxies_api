@@ -3,6 +3,7 @@ version: "3.8"
 services:
   proxies-api:
     image: alexeynaidiuk/proxies-api:latest
+    restart: always
     build: .
     volumes:
       - .:/app
