@@ -4,16 +4,16 @@ import pathlib
 from random import shuffle
 from typing import NoReturn
 
-from config import PROXIES_FOLDER, PACKAGE_FOLDER
+from config import PROXIES_FOLDER, FACTORIES_JSON
 
 
 def dump_factories_file(model: dict):
-    with open(pathlib.Path(PACKAGE_FOLDER, 'factories.json'), 'w') as file:
+    with open(FACTORIES_JSON, 'w') as file:
         json.dump(model, file)
 
 
 def get_factories_file():
-    with open(pathlib.Path(PACKAGE_FOLDER, 'factories.json'), 'rb') as file:
+    with open(FACTORIES_JSON, 'rb') as file:
         return json.load(file)
 
 

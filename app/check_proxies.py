@@ -2,11 +2,10 @@ import asyncio
 
 import aiohttp
 import loguru
-import requests
 from aiohttp_socks import ProxyConnector
 
-PROXIES = 'http://localhost:8182/proxies'
-URL = 'http://ip-api.com/json/?fields=8217'
+PROXIES = 'http://127.0.0.1:8182/proxies'
+URL = 'https://ip-api.com/json/?fields=8217'
 SEMAPHORE = asyncio.Semaphore(5000)
 logger = loguru.logger
 
@@ -27,25 +26,25 @@ async def check_proxy(proxy: str) -> dict | None:
                         return json_response
     except Exception as error:
         logger.error(error)
-        logger.error(f'{text} {proxy}')
+        # logger.error(f'{text} {proxy}')
 
 
 async def check_pool(pool):
+    async with aiohttp.ClientSession() as session:
+        async with session.get(f'{PROXIES}/{pool}', params={'method': 'pool'}) as response:
+            proxies = str(await response.text()).strip().splitlines()
     logger.info(pool)
-    proxies = requests.get(f'{PROXIES}/{pool}',
-                           params={'method': 'pool'}).text.strip().splitlines()
     cors = [asyncio.create_task(check_proxy(proxy)) for proxy in proxies]
-    for res in asyncio.as_completed(cors):
-        await_res = await res
-        if await_res:
-            logger.info(await_res)
+    await asyncio.gather(*cors)
 
 
 async def check_pools():
-    pools = requests.get(PROXIES).json().keys()
-    logger.info(pools)
-    for pool in pools:
-        await check_pool(pool)
+    async with aiohttp.ClientSession() as session:
+        async with session.get(URL) as response:
+            pools = await response.json()
+            logger.info(pools)
+            for pool in pools:
+                await check_pool(pool)
 
 
 if __name__ == '__main__':

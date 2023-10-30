@@ -1,3 +1,5 @@
 /proxies/
 /.env
 /sources/
+.idea/
+__pycache__

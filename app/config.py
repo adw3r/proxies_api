@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 config = configparser.ConfigParser()
-PACKAGE_FOLDER = pathlib.Path(__file__).parent
+PACKAGE_FOLDER = pathlib.Path(__file__).parent.parent
 config.read(pathlib.Path(PACKAGE_FOLDER, 'config.ini'))
 
 config_general = config['general']
@@ -22,3 +22,5 @@ if not DEBUG:
 else:
     HOST = config_general.get('TEST_HOST', '0.0.0.0')
     PORT = config_general.getint('TEST_PORT', 8282)
+
+FACTORIES_JSON = pathlib.Path(PACKAGE_FOLDER, 'factories.json')
