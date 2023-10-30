@@ -4,7 +4,9 @@ import aiohttp
 import loguru
 from aiohttp_socks import ProxyConnector
 
+URL = 'http://ip-api.com/json/?fields=8217'
 PROXIES = 'http://127.0.0.1:8182/proxies'
+
 SEMAPHORE = asyncio.Semaphore(1000)
 logger = loguru.logger
 
@@ -16,7 +18,7 @@ async def check_proxy(proxy: str) -> dict | None:
     try:
         async with SEMAPHORE:
             async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(30), connector=connector) as session:
-                async with session.get('http://ip-api.com/json/?fields=8217', proxy=proxy) as response:
+                async with session.get(URL, proxy=proxy) as response:
                     text = await response.text()
                     json_response = await response.json()
                     ip = json_response.get('query')
