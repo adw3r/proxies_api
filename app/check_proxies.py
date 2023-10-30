@@ -5,7 +5,7 @@ import loguru
 from aiohttp_socks import ProxyConnector
 
 PROXIES = 'http://127.0.0.1:8182/proxies'
-SEMAPHORE = asyncio.Semaphore(5000)
+SEMAPHORE = asyncio.Semaphore(1000)
 logger = loguru.logger
 
 
